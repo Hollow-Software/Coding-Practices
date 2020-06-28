@@ -1,0 +1,35 @@
+[submodule "Drawing Electron Cloud with Matlab"]
+	path = Drawing Electron Cloud with Matlab
+	url = https://github.com/hollowman6/Drawing-Electron-Cloud-with-Matlab.git
+
+[submodule "Drawing Using Fourier series"]
+	path = Drawing Using Fourier series
+	url = https://github.com/HollowMan6/Drawing-Using-Fourier-series.git
+
+[submodule "Captcha Data Set Marking Tool"]
+	path = Captcha Data Set Marking Tool
+	url = https://github.com/HollowMan6/Captcha-Data-Set-Marking-Tool.git
+
+[submodule "Play with Arduino"]
+	path = Play with Arduino
+	url = https://github.com/HollowMan6/Play-with-Arduino.git
+
+[submodule "English Word Statistics Program"]
+	path = English Word Statistics Program
+	url = https://github.com/HollowMan6/English-Word-Frequency-Statistics-Program.git
+
+[submodule "Standard Sudoku Solve System"]
+	path = Standard Sudoku Solve System
+	url = https://github.com/HollowMan6/Standard-Sudoku-Solve-System.git
+
+[submodule "🐍 Retro Snaker"]
+	path = 🐍 Retro Snaker
+	url = https://github.com/HollowMan6/Retro-Snaker.git
+
+[submodule "Gobang"]
+	path = Gobang
+	url = https://github.com/HollowMan6/Gobang.git
+
+[submodule "Childhood's VB Programs"]
+	path = Childhood's VB Programs
+	url = https://github.com/HollowMan6/Childhood-s-VB-Programs.git

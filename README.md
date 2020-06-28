@@ -1,2 +1,31 @@
-# Coding-Practices
-Here are some programmes coded by myself for praticing my coding ability.(编程练手小程序)
+# 课程作业合集+刷课助手 Coursework Answers & Lesson Helper
+
+![](https://hollowman6.github.io/img/mark.png)
+
+
+[![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
+
+[查看项目细节 See Project Details](https://github.com/users/HollowMan6/projects/6)
+
+这里汇聚了我的课程作业合集+刷课助手仓库。
+
+Here is a collection of all the courseworks and quizzes that done by myself plus lessons helper.
+
+**提示**: 克隆后请使用以下命令获取子仓库
+
+**Hint**: Please use the following command to get the sub-repositories after cloning.
+
+`git submodule update --init`
+
+* [Drawing Electron Cloud with Matlab](https://github.com/hollowman6/Drawing-Electron-Cloud-with-Matlab)
+* [Drawing Using Fourier series](https://github.com/HollowMan6/Drawing-Using-Fourier-series)
+* [Captcha Data Set Marking Tool](https://github.com/HollowMan6/Captcha-Data-Set-Marking-Tool)
+* [Play with Arduino](https://github.com/HollowMan6/Play-with-Arduino)
+* [English Word Statistics Program](https://github.com/HollowMan6/English-Word-Frequency-Statistics-Program)
+* [Standard Sudoku Solve System](https://github.com/HollowMan6/Standard-Sudoku-Solve-System)
+* [🐍 Retro Snaker](https://github.com/HollowMan6/Retro-Snaker)
+* [Gobang](https://github.com/HollowMan6/Gobang)
+* [Childhood's VB Programs](https://github.com/HollowMan6/Childhood-s-VB-Programs)
