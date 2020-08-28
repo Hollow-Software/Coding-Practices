@@ -33,3 +33,7 @@
 [submodule "Childhood's VB Programs"]
 	path = Childhood's VB Programs
 	url = https://github.com/HollowMan6/Childhood-s-VB-Programs.git
+
+[submodule "🐋 Docker images for PyQT5 Spiders"]
+	path = 🐋 Docker images for PyQT5 Spiders
+	url = https://github.com/hollowman6/docker-pyqt5-spiders.git
