@@ -37,3 +37,7 @@
 [submodule "🐋 Docker images for PyQT5 Spiders"]
 	path = 🐋 Docker images for PyQT5 Spiders
 	url = https://github.com/hollowman6/docker-pyqt5-spiders.git
+
+[submodule "TinyML ESP32"]
+	path = TinyML ESP32
+	url = https://github.com/HollowMan6/TinyML-ESP32.git
