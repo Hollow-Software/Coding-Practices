@@ -29,4 +29,5 @@ Here is a collection of all the courseworks and quizzes that done by myself plus
 * [🐍 Retro Snaker](https://github.com/HollowMan6/Retro-Snaker)
 * [Gobang](https://github.com/HollowMan6/Gobang)
 * [Childhood's VB Programs](https://github.com/HollowMan6/Childhood-s-VB-Programs)
-* [🐋 Docker images for PyQT5 Spiders](https://github.com/HollowMan6/Childhood-s-VB-Programs)
+* [🐋 Docker images for PyQT5 Spiders](https://github.com/HollowMan6/docker-pyqt5-spiders)
+* [TinyML ESP32](https://github.com/HollowMan6/TinyML-ESP32)
