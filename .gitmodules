@@ -42,6 +42,6 @@
 	path = TinyML ESP32
 	url = https://github.com/HollowMan6/TinyML-ESP32.git
 
-[submodule "SRMD Pytorch"]
-	path = SRMD Pytorch
+[submodule "🖼 SRMD Pytorch"]
+	path = 🖼 SRMD Pytorch
 	url = https://github.com/HollowMan6/SRMD-Pytorch.git
