@@ -23,6 +23,8 @@ Here is a collection of all the courseworks and quizzes that done by myself plus
 * [🐋 Docker images for PyQT5 Spiders](https://github.com/HollowMan6/docker-pyqt5-spiders)
 * [TinyML ESP32](https://github.com/HollowMan6/TinyML-ESP32)
 * [🖼 SRMD Pytorch](https://github.com/HollowMan6/SRMD-Pytorch)
+* [canvas-ribbon.js](https://github.com/HollowMan6/canvas-ribbon.js)
+* [canvas-nest.js](https://github.com/HollowMan6/canvas-nest.js)
 * [Drawing Electron Cloud with Matlab](https://github.com/hollowman6/Drawing-Electron-Cloud-with-Matlab)
 * [Drawing Using Fourier series](https://github.com/HollowMan6/Drawing-Using-Fourier-series)
 * [Captcha Data Set Marking Tool](https://github.com/HollowMan6/Captcha-Data-Set-Marking-Tool)

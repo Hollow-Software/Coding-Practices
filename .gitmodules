@@ -45,3 +45,11 @@
 [submodule "🖼 SRMD Pytorch"]
 	path = 🖼 SRMD Pytorch
 	url = https://github.com/HollowMan6/SRMD-Pytorch.git
+
+[submodule "canvas-ribbon.js"]
+	path = canvas-ribbon.js
+	url = https://github.com/HollowMan6/canvas-ribbon.js.git
+
+[submodule "canvas-nest.js"]
+	path = canvas-nest.js
+	url = https://github.com/HollowMan6/canvas-nest.js.git
