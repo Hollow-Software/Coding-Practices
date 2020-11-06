@@ -46,18 +46,18 @@
 	path = 🖼 SRMD Pytorch
 	url = https://github.com/HollowMan6/SRMD-Pytorch.git
 
-[submodule "Staggered Mouse Balls"]
-	path = Staggered Mouse Balls
+[submodule "🔵⚪🔴 Staggered Mouse Balls"]
+	path = 🔵⚪🔴 Staggered Mouse Balls
 	url = https://github.com/HollowMan6/Staggered-Mouse-Balls.git
 
-[submodule "canvas-ribbon.js"]
-	path = canvas-ribbon.js
+[submodule "█ canvas-ribbon.js"]
+	path = █ canvas-ribbon.js
 	url = https://github.com/HollowMan6/canvas-ribbon.js.git
 
-[submodule "canvas-ball.js"]
-	path = canvas-ball.js
+[submodule "🔴 canvas-ball.js"]
+	path = 🔴 canvas-ball.js
 	url = https://github.com/HollowMan6/canvas-ball.js.git
 
-[submodule "canvas-nest.js"]
-	path = canvas-nest.js
+[submodule "# canvas-nest.js"]
+	path = # canvas-nest.js
 	url = https://github.com/HollowMan6/canvas-nest.js.git
