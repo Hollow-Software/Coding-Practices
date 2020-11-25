@@ -61,3 +61,7 @@
 [submodule "🕸️ canvas-nest.js"]
 	path = 🕸️ canvas-nest.js
 	url = https://github.com/HollowMan6/canvas-nest.js.git
+
+[submodule "Get Web VPN Address"]
+	path = Get Web VPN Address
+	url = https://github.com/HollowMan6/Get-Web-VPN-Address.git
