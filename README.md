@@ -1,4 +1,4 @@
-# 课程作业合集+刷课助手 Coursework Answers & Lesson Helper
+# 编程练习（随便写的程序） Coding Practices Programmes
 
 ![](https://hollowman6.github.io/img/mark.png)
 
@@ -10,9 +10,9 @@
 
 [查看项目细节 See Project Details](https://github.com/users/HollowMan6/projects/6)
 
-这里汇聚了我的课程作业合集+刷课助手仓库。
+这里汇聚了我的编程练习（随便写的程序）仓库。
 
-Here is a collection of all the courseworks and quizzes that done by myself plus lessons helper.
+Here is a collection of all the coding practices programmes that done by myself.
 
 **提示**: 克隆后请使用以下命令获取子仓库
 
