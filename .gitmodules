@@ -65,3 +65,7 @@
 [submodule "Get Web VPN Address"]
 	path = Get Web VPN Address
 	url = https://github.com/HollowMan6/Get-Web-VPN-Address.git
+
+[submodule "☀ sun.js"]
+	path = ☀ sun.js
+	url = https://github.com/HollowMan6/sun.js.git

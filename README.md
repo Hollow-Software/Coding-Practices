@@ -27,6 +27,7 @@ Here is a collection of all the coding practices programmes that done by myself.
 * [🌈 canvas-ribbon.js](https://github.com/HollowMan6/canvas-ribbon.js)
 * [🔴 canvas-ball.js](https://github.com/HollowMan6/canvas-ball.js)
 * [🕸️ canvas-nest.js](https://github.com/HollowMan6/canvas-nest.js)
+* [☀ sun.js](https://github.com/HollowMan6/sun.js)
 * [Get Web VPN Address](https://github.com/HollowMan6/Get-Web-VPN-Address)
 * [Drawing Electron Cloud with Matlab](https://github.com/hollowman6/Drawing-Electron-Cloud-with-Matlab)
 * [Drawing Using Fourier series](https://github.com/HollowMan6/Drawing-Using-Fourier-series)
