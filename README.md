@@ -23,6 +23,7 @@ Here is a collection of all the coding practices programmes that done by myself.
 * [🐋 Docker images for PyQT5 Spiders](https://github.com/HollowMan6/docker-pyqt5-spiders)
 * [TinyML ESP32](https://github.com/HollowMan6/TinyML-ESP32)
 * [🖼 SRMD Pytorch](https://github.com/HollowMan6/SRMD-Pytorch)
+* [🍱 LZU Food Ordering](https://github.com/LZU-Food-Ordering/LZU-Food-Ordering)
 * [🔵⚪🔴 Staggered Mouse Balls](https://github.com/HollowMan6/Staggered-Mouse-Balls)
 * [🌈 canvas-ribbon.js](https://github.com/HollowMan6/canvas-ribbon.js)
 * [🔴 canvas-ball.js](https://github.com/HollowMan6/canvas-ball.js)
