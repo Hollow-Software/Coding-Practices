@@ -73,3 +73,7 @@
 [submodule "🍱 LZU Food Ordering"]
 	path = 🍱 LZU Food Ordering
 	url = https://github.com/LZU-Food-Ordering/LZU-Food-Ordering.git
+
+[submodule "🦠 LZU Auto COVID Health Report"]
+	path = 🦠 LZU Auto COVID Health Report
+	url = https://github.com/HollowMan6/LZU-Auto-COVID-Health-Report.git
