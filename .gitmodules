@@ -50,6 +50,10 @@
 	path = 🔵⚪🔴 Staggered Mouse Balls
 	url = https://github.com/HollowMan6/Staggered-Mouse-Balls.git
 
+[submodule "💥 canvas-explosion-click.js"]
+	path = 💥 canvas-explosion-click.js
+	url = https://github.com/HollowMan6/canvas-explosion-click.js.git
+
 [submodule "█ canvas-ribbon.js"]
 	path = █ canvas-ribbon.js
 	url = https://github.com/HollowMan6/canvas-ribbon.js.git

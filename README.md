@@ -26,6 +26,7 @@ Here is a collection of all the coding practices programmes that done by myself.
 * [🍱 LZU Food Ordering](https://github.com/LZU-Food-Ordering/LZU-Food-Ordering)
 * [🦠 LZU Auto COVID Health Report](https://github.com/HollowMan6/LZU-Auto-COVID-Health-Report)
 * [🔵⚪🔴 Staggered Mouse Balls](https://github.com/HollowMan6/Staggered-Mouse-Balls)
+* [💥 canvas-explosion-click.js](https://github.com/HollowMan6/canvas-explosion-click.js)
 * [🌈 canvas-ribbon.js](https://github.com/HollowMan6/canvas-ribbon.js)
 * [🔴 canvas-ball.js](https://github.com/HollowMan6/canvas-ball.js)
 * [🕸️ canvas-nest.js](https://github.com/HollowMan6/canvas-nest.js)
