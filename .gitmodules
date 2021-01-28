@@ -82,6 +82,6 @@
 	path = 🦠 LZU Auto COVID Health Report
 	url = https://github.com/HollowMan6/LZU-Auto-COVID-Health-Report.git
 
-[submodule "⏲ Wechat Timed Message Through Actions"]
-	path = ⏲ Wechat Timed Message Through Actions
-	url = https://github.com/HollowMan6/Wechat-Timed-Message-Through-Actions.git
+[submodule "⏲ Wechat Timed Message"]
+	path = ⏲ Wechat Timed Message
+	url = https://github.com/HollowMan6/Wechat-Timed-Message.git
