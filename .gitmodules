@@ -85,3 +85,7 @@
 [submodule "⏲ Wechat Timed Message"]
 	path = ⏲ Wechat Timed Message
 	url = https://github.com/HollowMan6/Wechat-Timed-Message.git
+
+[submodule "📢 Site Notifications"]
+	path = 📢 Site Notifications
+	url = https://github.com/HollowMan6/Site-Notifications.git

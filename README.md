@@ -21,9 +21,10 @@ Here is a collection of all the coding practices programmes that done by myself.
 `git submodule update --init`
 
 * [🦠 LZU Auto COVID Health Report](https://github.com/HollowMan6/LZU-Auto-COVID-Health-Report)
-* [TinyML ESP32](https://github.com/HollowMan6/TinyML-ESP32)
 * [🖼 SRMD Pytorch](https://github.com/HollowMan6/SRMD-Pytorch)
 * [🍱 LZU Food Ordering](https://github.com/LZU-Food-Ordering/LZU-Food-Ordering)
+* [TinyML ESP32](https://github.com/HollowMan6/TinyML-ESP32)
+* [📢 Site Notifications](https://github.com/HollowMan6/Site-Notifications)
 * [Get Web VPN Address](https://github.com/HollowMan6/Get-Web-VPN-Address)
 * [Drawing Electron Cloud with Matlab](https://github.com/hollowman6/Drawing-Electron-Cloud-with-Matlab)
 * [Drawing Using Fourier series](https://github.com/HollowMan6/Drawing-Using-Fourier-series)
