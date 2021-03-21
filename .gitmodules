@@ -89,3 +89,7 @@
 [submodule "📢 Site Notifications"]
 	path = 📢 Site Notifications
 	url = https://github.com/HollowMan6/Site-Notifications.git
+
+[submodule "🎨 Customize IBus"]
+	path = 🎨 Customize IBus
+	url = https://github.com/HollowMan6/Customize-IBus.git
