@@ -93,3 +93,7 @@
 [submodule "🎨 Customize IBus"]
 	path = 🎨 Customize IBus
 	url = https://github.com/HollowMan6/Customize-IBus.git
+
+[submodule "🎨 IBus Theme"]
+	path = 🎨 IBus Theme
+	url = https://github.com/HollowMan6/IBus-Theme.git
