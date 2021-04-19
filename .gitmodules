@@ -97,3 +97,7 @@
 [submodule "🎨 IBus Theme"]
 	path = 🎨 IBus Theme
 	url = https://github.com/HollowMan6/IBus-Theme.git
+
+[submodule "🗄 IBus Theme Hub"]
+	path = 🗄 IBus Theme Hub
+	url = https://github.com/HollowMan6/IBus-Theme-Hub.git

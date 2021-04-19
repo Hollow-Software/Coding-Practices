@@ -27,6 +27,7 @@ Here is a collection of all the coding practices programmes that done by myself.
 * [📢 Site Notifications](https://github.com/HollowMan6/Site-Notifications)
 * [🎛️ Customize IBus](https://github.com/HollowMan6/Customize-IBus)
 * [🎨 IBus Theme](https://github.com/HollowMan6/IBus-Theme)
+* [🗄 IBus Theme Hub](https://github.com/HollowMan6/IBus-Theme-Hub)
 * [Get Web VPN Address](https://github.com/HollowMan6/Get-Web-VPN-Address)
 * [Drawing Electron Cloud with Matlab](https://github.com/hollowman6/Drawing-Electron-Cloud-with-Matlab)
 * [Drawing Using Fourier series](https://github.com/HollowMan6/Drawing-Using-Fourier-series)
