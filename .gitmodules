@@ -101,3 +101,7 @@
 [submodule "🗄 IBus Theme Hub"]
 	path = 🗄 IBus Theme Hub
 	url = https://github.com/HollowMan6/IBus-Theme-Hub.git
+
+[submodule "💹 Predict Chinese Stock Market"]
+	path = 💹 Predict Chinese Stock Market
+	url = https://github.com/HollowMan6/Predict-Chinese-Stock-Market.git
