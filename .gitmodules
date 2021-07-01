@@ -92,15 +92,15 @@
 
 [submodule "🎛️ Customize IBus"]
 	path = 🎛️ Customize IBus
-	url = https://github.com/HollowMan6/Customize-IBus.git
+	url = https://github.com/openSUSE/Customize-IBus.git
 
-[submodule "🎨 IBus Theme"]
-	path = 🎨 IBus Theme
-	url = https://github.com/HollowMan6/IBus-Theme.git
+[submodule "🎨 IBus Theme Tools"]
+	path = 🎨 IBus Theme Tools
+	url = https://github.com/openSUSE/IBus-Theme.git
 
 [submodule "🗄 IBus Theme Hub"]
 	path = 🗄 IBus Theme Hub
-	url = https://github.com/HollowMan6/IBus-Theme-Hub.git
+	url = https://github.com/openSUSE/IBus-Theme-Hub.git
 
 [submodule "💹 Predict Chinese Stock Market"]
 	path = 💹 Predict Chinese Stock Market
